@@ -5,4 +5,4 @@ Example:
 "C:\Program Files (x86)\Steam\steamapps\common\terraria\TerrariaServer.exe"
 
 Known Issues:
-The text shown on the input line is 
+The text shown on the input line is not shown until text is sent.
