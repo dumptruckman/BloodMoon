@@ -1,0 +1,5 @@
+Simply put in the path to your TerrariaServer.exe in the box provided below the send button.
+If the path has any spaces in it you should surround the entire path in quotes.
+
+Example:
+"C:\Program Files (x86)\Steam\steamapps\common\terraria\TerrariaServer.exe"
